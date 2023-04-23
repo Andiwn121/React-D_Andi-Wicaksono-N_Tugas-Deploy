@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap");
+
+.section-tingkatan {
+  font-size: 33px;
+  text-align: center;
+  color: #19345f;
+}
+
+.level-logo {
+  margin: 2em;
+}
+
+.container-title {
+  padding: 1em;
+}
+
+.level-title {
+  font-family: "Mulish", Sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #19345f;
+  letter-spacing: 0.2px;
+}
+
+.level-num {
+  font-family: "Mulish", Sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+  color: #333;
+  letter-spacing: 0.2px;
+}
+
+.container-descLevel {
+  margin-top: 20px;
+  width: 290px;
+  height: 180px;
+  text-align: center;
+  padding: 12px;
+  border-radius: 15px;
+  background-color: #f0f4fa;
+  padding-bottom: 6em;
+  
+}
+
+.level-desc {
+  margin-bottom: 30px;
+  color: #555;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.btn-level {
+  height: auto;
+  width: auto;
+
+  margin-top: 10px;
+  text-align: center;
+  background-color: #19345f;
+  font-size: 17px;
+  padding: 12px 30px !important;
+  border-radius: 4px;
+  transform: scale(1);
+  transition: all 0.3s ease;
+}
+
+.btn-level:hover {
+  transform: scale(1.1);
+  background-color: orange !important;
+}
+
+.btn-soon {
+    height: auto;
+    width: auto;
+  
+    margin-top: 10px;
+    text-align: center;
+    color: #fff !important;
+    background-color: #b0b0b0 !important;
+    font-size: 17px;
+    padding: 12px 30px !important;
+    border-radius: 4px;
+  }
+
+.container-icon{
+    height: 280px;
+}
+

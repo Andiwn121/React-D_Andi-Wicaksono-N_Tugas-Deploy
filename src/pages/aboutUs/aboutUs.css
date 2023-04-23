@@ -1,0 +1,11 @@
+.container{
+    text-align: center;
+    align-items: center;
+}
+.user-cards{
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 20px;
+    color: #333;
+  }
