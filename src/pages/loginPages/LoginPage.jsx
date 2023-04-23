@@ -63,7 +63,7 @@ const LoginPage = () => {
 
   return (
     <div className="container-center">
-      <Card title="Login" style={{ width: "400px" }}>
+      <Card title="Login Form" style={{ width: "400px" }}>
         <Row justify="center" align="middle">
           <Radio.Group
             defaultValue="Login"
